@@ -1,0 +1,12 @@
+body{
+  font-size: 20
+}
+
+.info {
+  font-style: italic;
+  font-weight: 100;
+}
+.school {
+  font-weight: bold;
+  color: #0000ff
+}
